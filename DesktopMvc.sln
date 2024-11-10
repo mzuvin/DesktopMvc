@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{A57CC0F9-C79C-496F-8ECB-F22F69589FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop", "Desktop\Desktop.csproj", "{C1BAF962-B3D9-499E-A2BA-8D3CC3F2F1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureManApplicationDeployment", "PureManApplicationDeployment\PureManApplicationDeployment.csproj", "{D4A461B8-6B9B-4174-BFA5-44FC6FB959AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57CC0F9-C79C-496F-8ECB-F22F69589FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57CC0F9-C79C-496F-8ECB-F22F69589FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57CC0F9-C79C-496F-8ECB-F22F69589FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57CC0F9-C79C-496F-8ECB-F22F69589FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BAF962-B3D9-499E-A2BA-8D3CC3F2F1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BAF962-B3D9-499E-A2BA-8D3CC3F2F1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BAF962-B3D9-499E-A2BA-8D3CC3F2F1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BAF962-B3D9-499E-A2BA-8D3CC3F2F1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A461B8-6B9B-4174-BFA5-44FC6FB959AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A461B8-6B9B-4174-BFA5-44FC6FB959AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A461B8-6B9B-4174-BFA5-44FC6FB959AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A461B8-6B9B-4174-BFA5-44FC6FB959AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
